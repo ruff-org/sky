@@ -1,0 +1,25 @@
+{
+  "name": "sky",
+  "version": "1.0.0",
+  "description": "The Python utility framework -- from up High.",
+  "main": "setup.py",
+  "scripts": {
+    "install": "pip install -r requirements.txt",
+    "build": "python -m build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruff-org/sky.git"
+  },
+  "keywords": [
+    "sky",
+    "python",
+    "utility"
+  ],
+  "author": "ruff-org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruff-org/sky/issues"
+  },
+  "homepage": "https://github.com/ruff-org/sky#readme"
+}
